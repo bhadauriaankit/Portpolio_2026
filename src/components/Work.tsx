@@ -3,35 +3,58 @@ import "./styles/Work.css";
 import WorkImage from "./WorkImage";
 import { MdArrowBack, MdArrowForward } from "react-icons/md";
 
-const projects = [
+
+  const projects = [
   {
-    title: "CallHQ",
-    category: "Voice AI Calling Platform",
-    tools: "Voice AI, Calling Automation, CRM Integrations",
-    image: "/images/callhq.png",
-    link: "https://callhq.ai",
+    title: "Ankit Escapes – Travel Portfolio",
+    category: "Full-Stack Travel Website",
+    tools: "Next.js, Tailwind CSS, Cloudinary, EmailJS",
+    image: "/images/travel.png",
+    link: "https://ankit-escapes.vercel.app",
   },
   {
-    title: "Whatsapp Automation",
-    category: "WABA Application",
-    tools: "WhatsApp Business API, Workflow Automation, Notifications",
-    image: "/images/whatsapp.png",
-    link: "https://whatsapp.callhq.ai",
+    title: "AI-Powered Code Review Assistant",
+    category: "AI/ML Application",
+    tools: "Python, LangChain, Gemini AI, HuggingFace, Gradio, AST",
+    image: "/images/review.png",
+    link: "https://huggingface.co/spaces/bhadauria/review",
   },
   {
-    title: "Broki",
-    category: "Real Estate Platform for FnB Industry",
-    tools: "Property Discovery, Lead Management, Marketplace Workflows",
-    image: "/images/broki.png",
-    link: "https://broki.in",
+    title: "Underwater Image Enhancement System",
+    category: "Computer Vision Project",
+    tools: "Python, OpenCV, PCA, Image Processing",
+    image: "/images/underwater.jpg",
+    link: "https://github.com/bhadauriaankit/medical-image-segmentation",
   },
   {
-    title: "Orrdr.com",
-    category: "Ecommerce Platform and Mobile App",
-    tools: "Ecommerce, Mobile Experience, Order Management",
-    image: "/images/orrdr.png",
-    link: "https://orrdr.com",
+    title: "Suicide Detection System",
+    category: "NLP & Machine Learning",
+    tools: "Python, NLTK, Machine Learning",
+    image: "/images/suicide.png",
+    link: "https://github.com/bhadauriaankit/Suicide-detection-using-ml",
   },
+  {
+    title: "Hand Gesture Controlled Robot Car",
+    category: "IoT & Robotics",
+    tools: "Arduino, Sensors, Python, Wireless Control",
+    image: "/images/robot.JPG",
+    link: "https://github.com/bhadauriaankit/robot-car",
+  },
+  {
+    title: "Movie Recommender System",
+    category: "Recommendation System",
+    tools: "Python, Pandas, Scikit-Learn, Flask",
+    image: "/images/movie.png",
+    link: "https://github.com/bhadauriaankit/movie-recommender-system",
+  },
+  {
+    title: "Pneumonia Detection System",
+    category: "Deep Learning / Healthcare AI",
+    tools: "Python, TensorFlow, Keras, CNN",
+    image: "/images/pneumonia.png",
+    link: "https://github.com/bhadauriaankit/medical-image-segmentation",
+  },
+  
 ];
 
 const Work = () => {

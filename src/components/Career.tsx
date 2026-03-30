@@ -15,58 +15,47 @@ const Career = () => {
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Co-Founder</h4>
-                <h5>CallHQ.ai</h5>
+                <h4>Junior CCM Engineer</h4>
+                <h5>DBP Offshore</h5>
               </div>
-              <h3>NOW</h3>
+              <h3>2025–Present</h3>
             </div>
             <p>
-              Building CallHQ.ai, a voice AI platform for
-              automating customer calls, support, and conversions.
+              Working as a Quadient Inspire Developer, building and maintaining
+              high-volume, data-driven customer communication systems. Focused
+              on automation workflows, document composition, and integration
+              with enterprise systems to ensure scalable and reliable solutions.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Adobe</h4>
-                <h5>6+ years · Noida</h5>
+                <h4>AI/ML Intern</h4>
+                <h5>Infosys Springboard</h5>
               </div>
-              <h3>2017–24</h3>
+              <h3>2025</h3>
             </div>
             <p>
-              Senior Lead Software Engineer (Feb 2024 – May 2024). Lead Software
-              Engineer (Feb 2021 – Feb 2024). Software Engineer II (Dec 2017 –
-              Feb 2021): internationalization, globalization, and localization for
-              Adobe Technical Communication Suite; functional and linguistic testing
-              strategy; in-house tooling; collaboration with product and engineering
-              for high-quality localized releases.
+              Worked on AI-powered workflows and integrated machine learning
+              models for medical image analysis. Focused on improving diagnostic
+              accuracy and reducing operational errors using computer vision
+              techniques.
             </p>
           </div>
           <div className="career-info-box">
             <div className="career-info-in">
               <div className="career-role">
-                <h4>Consultant</h4>
-                <h5>Genpact Headstrong </h5>
+                <h4>Projects & Development</h4>
+                <h5>Self-Initiated</h5>
               </div>
-              <h3>2016–17</h3>
+              <h3>2021–2025</h3>
             </div>
             <p>
-              Sep 2016 – Nov 2017. Developed and maintained WCF services consumed
-              by the UI; deployment support across environments; NUnit tests and
-              coverage; bug fixes from QA and users; database work.
-            </p>
-          </div>
-          <div className="career-info-box">
-            <div className="career-info-in">
-              <div className="career-role">
-                <h4>Sf Engineer</h4>
-                <h5>Infogain</h5>
-              </div>
-              <h3>2013-16</h3>
-            </div>
-            <p>
-              Software engineering across enterprise projects, contributing to
-              design, development, and delivery of business applications.
+              Built multiple projects including an Underwater Image Enhancement
+              System using Python and OpenCV, and a full-stack portfolio
+              platform using Next.js, Tailwind, Cloudinary, and EmailJS. Focused
+              on real-world problem solving, performance optimization, and
+              scalable architecture.
             </p>
           </div>
         </div>
